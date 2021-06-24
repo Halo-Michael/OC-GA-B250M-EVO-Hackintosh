@@ -43,10 +43,10 @@
 - BCM94360无线网2.4GHz、5GHz、蓝牙模块工作正常
 - 机箱后部3x USB3.0口 & 2x USB2.0口 & 内部USB3.0总线接前置1x USB3.0口 + 2x USB2.0口已定制好USBPort.kext
 - 夜览模式
+- 睡眠 & 唤醒
 - AirDrop
 - iMessage & FaceTime
 
 ## ⚠️ 存在的问题
-- 睡眠无法唤醒
 - 无法判断变频是否工作
 
