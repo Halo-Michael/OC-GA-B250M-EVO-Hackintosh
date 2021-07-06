@@ -16,7 +16,7 @@
 
 ## macOS & OpenCore 版本
 - macOS Big Sur 11.4
-- OpenCore 0.7.0
+- OpenCore 0.7.1
 
 ## BIOS 设置
 - Hypet-Threading Technology : 启用
