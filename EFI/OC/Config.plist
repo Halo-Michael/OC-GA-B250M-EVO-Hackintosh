@@ -23,7 +23,7 @@
 			<key>ResetLogoStatus</key>
 			<false/>
 			<key>SyncTableIds</key>
-			<true/>
+			<false/>
 		</dict>
 	</dict>
 	<key>Booter</key>
