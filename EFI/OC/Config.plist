@@ -666,7 +666,44 @@
 			<integer>0</integer>
 		</dict>
 		<key>Entries</key>
-		<array/>
+		<array>
+			<dict>
+				<key>Arguments</key>
+				<string></string>
+				<key>Auxiliary</key>
+				<false/>
+				<key>Comment</key>
+				<string></string>
+				<key>Enabled</key>
+				<true/>
+				<key>Flavour</key>
+				<string>Auto</string>
+				<key>Name</key>
+				<string>Ubuntu</string>
+				<key>Path</key>
+				<string>PciRoot(0x0)/Pci(0x17,0x0)/Sata(0x5,0xFFFF,0x0)/HD(2,GPT,2924FC90-8984-47E8-8CE7-0B5B29D7AEDC,0x40800,0x96000)/\EFI\ubuntu\grubx64.efi</string>
+				<key>TextMode</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>Arguments</key>
+				<string></string>
+				<key>Auxiliary</key>
+				<false/>
+				<key>Comment</key>
+				<string></string>
+				<key>Enabled</key>
+				<true/>
+				<key>Flavour</key>
+				<string>Auto</string>
+				<key>Name</key>
+				<string>PhoenixOS</string>
+				<key>Path</key>
+				<string>PciRoot(0x0)/Pci(0x17,0x0)/Sata(0x5,0xFFFF,0x0)/HD(2,GPT,2924FC90-8984-47E8-8CE7-0B5B29D7AEDC,0x40800,0x96000)/\EFI\PhoenixOS\boot\grubx64.efi</string>
+				<key>TextMode</key>
+				<false/>
+			</dict>
+		</array>
 		<key>Security</key>
 		<dict>
 			<key>AllowNvramReset</key>
@@ -682,7 +719,7 @@
 			<key>BlacklistAppleUpdate</key>
 			<true/>
 			<key>DmgLoading</key>
-			<string>Any</string>
+			<string>Signed</string>
 			<key>EnablePassword</key>
 			<false/>
 			<key>ExposeSensitiveData</key>
@@ -799,8 +836,6 @@
 		<true/>
 		<key>CustomMemory</key>
 		<false/>
-		<key>DataHub</key>
-		<dict/>
 		<key>Generic</key>
 		<dict>
 			<key>AdviseFeatures</key>
@@ -824,12 +859,6 @@
 			<key>SystemUUID</key>
 			<string></string>
 		</dict>
-		<key>Memory</key>
-		<dict/>
-		<key>PlatformNVRAM</key>
-		<dict/>
-		<key>SMBIOS</key>
-		<dict/>
 		<key>UpdateDataHub</key>
 		<true/>
 		<key>UpdateNVRAM</key>
@@ -899,7 +928,7 @@
 		<key>Drivers</key>
 		<array>
 			<string>AudioDxe.efi</string>
-			<string>CrScreenshotDxe.efi</string>
+			<string>#CrScreenshotDxe.efi</string>
 			<string>OpenCanopy.efi</string>
 			<string>OpenHfsPlus.efi</string>
 			<string>OpenRuntime.efi</string>
@@ -944,7 +973,7 @@
 			<key>ReplaceTabWithSpace</key>
 			<false/>
 			<key>Resolution</key>
-			<string>1920x1080</string>
+			<string>Max</string>
 			<key>SanitiseClearScreen</key>
 			<false/>
 			<key>TextRenderer</key>
