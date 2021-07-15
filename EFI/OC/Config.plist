@@ -733,7 +733,7 @@
 			<key>ScanPolicy</key>
 			<integer>0</integer>
 			<key>SecureBootModel</key>
-			<string>Disabled</string>
+			<string>j185</string>
 			<key>Vault</key>
 			<string>Optional</string>
 		</dict>
@@ -857,7 +857,7 @@
 			<key>SystemSerialNumber</key>
 			<string></string>
 			<key>SystemUUID</key>
-			<string></string>
+			<string>/string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
