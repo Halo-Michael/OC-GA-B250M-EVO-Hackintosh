@@ -35,18 +35,15 @@
 - CFG Lock : 禁用 (需要自行使用EFI系统禁用)
 
 ## 工作的部件
+- 自动变频
 - 核显Intel HD Graphics 630 通过DVI口正常输出(可转接HDMI)
 - 独立显卡已禁用，无需拔下
 - 风扇控制、温度传感器 (可通过iStat确认)
 - Nvme控制器、四SATA口工作正常
 - Realtek ALC 887
 - BCM94360无线网2.4GHz、5GHz、蓝牙模块工作正常
-- 机箱后部3x USB3.0口 & 2x USB2.0口 & 内部USB3.0总线接前置1x USB3.0口 + 2x USB2.0口已定制好USBPort.kext
+- 机箱后部4x USB3.0口 & 2x USB2.0口 & 内部USB3.0总线接前置1x USB3.0口 + 2x USB2.0口已定制好USBPort.kext
 - 夜览模式
 - 睡眠 & 唤醒
 - AirDrop
 - iMessage & FaceTime
-
-## ⚠️ 存在的问题
-- 无法判断变频是否工作
-
