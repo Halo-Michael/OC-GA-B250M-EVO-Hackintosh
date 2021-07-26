@@ -15,7 +15,7 @@
 | BIOS | AMI UEFI BIOS (Version F5d) |
 
 ## macOS & OpenCore 版本
-- macOS Big Sur 11.5
+- macOS Big Sur 11.5.1
 - OpenCore 0.7.1
 
 ## BIOS 设置
