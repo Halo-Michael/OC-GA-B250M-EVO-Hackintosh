@@ -15,7 +15,7 @@
 | BIOS | AMI UEFI BIOS (Version F5d) |
 
 ## macOS & OpenCore 版本
-- macOS Big Sur 11.5.2 / Monterey 12.0 beta5
+- macOS Big Sur 11.5.2 / Monterey 12.0 beta6
 - OpenCore 0.7.3
 
 ## BIOS 设置
@@ -50,4 +50,5 @@
 - 文件保险箱 （FileVault）
 - 完整安全性（Full Security） & 个性化的苹果安全启动（Personalised Apple Secure Boot）
 - 隔空投送（AirDrop）
+- 隔空播放接收器（AirPlay to Mac）
 - iMessage & FaceTime
