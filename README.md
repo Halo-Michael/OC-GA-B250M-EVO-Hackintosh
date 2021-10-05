@@ -15,8 +15,8 @@
 | BIOS | AMI UEFI BIOS (Version F5d) |
 
 ## macOS & OpenCore 版本
-- macOS Big Sur 11.5.2 / Monterey 12.0 beta6
-- OpenCore 0.7.3
+- macOS Big Sur 11.6 / Monterey 12.0 beta6
+- OpenCore 0.7.4
 
 ## BIOS 设置
 - Hypet-Threading Technology : 启用
