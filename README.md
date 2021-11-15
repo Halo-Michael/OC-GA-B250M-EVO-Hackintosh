@@ -15,8 +15,8 @@
 | BIOS | AMI UEFI BIOS (Version F5d) |
 
 ## macOS & OpenCore 版本
-- macOS Big Sur 11.6 / Monterey 12.0 beta6
-- OpenCore 0.7.4
+- macOS Big Sur 11.6.1 / Monterey 12.0.1
+- OpenCore 0.7.5
 
 ## BIOS 设置
 - Hypet-Threading Technology : 启用
@@ -31,7 +31,7 @@
 - SATA Mode : AHCI
 - VT-d : 禁用
   - 如果OC中将 DisableIoMapper 设置为true，那么VT-d可以启用
-- DVMT Pre-Allocated Memory : 128 MB
+- DVMT Pre-Allocated Memory : 32 MB
 - CFG Lock : 禁用 (需要自行使用EFI系统禁用)
 
 ## 工作的部件
