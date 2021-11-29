@@ -22,7 +22,7 @@
 - Hyper-Threading Technology : 启用
 - Intel Speed Shift Technology : 启用
 - Fast Boot : 禁用
-- Windows 8/10 Features  : Other OS
+- Windows 8/10 Features : Other OS
 - Secure Boot : 禁用
 - Serial Port : 禁用
 - XHCI Hand-Off : 启用
