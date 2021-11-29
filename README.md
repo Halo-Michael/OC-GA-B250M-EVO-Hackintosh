@@ -19,7 +19,7 @@
 - OpenCore 0.7.5
 
 ## BIOS 设置
-- Hypet-Threading Technology : 启用
+- Hyper-Threading Technology : 启用
 - Intel Speed Shift Technology : 启用
 - Fast Boot : 禁用
 - OS Type : Other
