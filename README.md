@@ -16,7 +16,7 @@
 
 ## macOS & OpenCore 版本
 - macOS Big Sur 11.6.1 / Monterey 12.0.1
-- OpenCore 0.7.5
+- OpenCore 0.7.6
 
 ## BIOS 设置
 - Hyper-Threading Technology : 启用
