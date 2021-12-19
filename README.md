@@ -32,6 +32,7 @@
   - 如果OC中将 DisableIoMapper 设置为true，那么VT-d可以启用
 - DVMT Pre-Allocated Memory : 32 MB
 - CFG Lock : 禁用 (需要自行使用EFI系统禁用)
+- CSM Support : 禁用 (需要自行使用EFI系统禁用)
 
 ## 工作的部件
 - 自动变频 & 睿频（可通过Intel Power Gadget确认）
