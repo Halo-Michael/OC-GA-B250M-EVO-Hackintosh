@@ -165,7 +165,7 @@
 					<key>HS12</key>
 					<dict>
 						<key>UsbConnector</key>
-						<integer>0</integer>
+						<integer>255</integer>
 						<key>name</key>
 						<string>HS12</string>
 						<key>port</key>
