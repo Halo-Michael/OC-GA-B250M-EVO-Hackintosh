@@ -9,7 +9,7 @@
 | 内存 | DDR4 2400 MHz 8G x2 |
 | 硬盘 | SATA SSD 240G |
 | 声卡 | Realtek HD Audio ALC 887 |
-| 有线网卡 | Realtek RTL8111 & ASIX AX88179 |
+| 有线网卡 | Realtek RTL8111 |
 | 无线网卡 | BCM94360 (14E4:43A0)  |
 | 蓝牙 | BCM94360 (0A5C:22BE) |
 | BIOS | AMI UEFI BIOS (Version F5d) |
