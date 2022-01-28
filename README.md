@@ -3,10 +3,10 @@
 ## 系统参数
 | Name | Description |
 | - | - |
-| CPU | Intel 7th Gen Kaby Lake Core i7 - 7700 3.60 GHz |
+| CPU | Intel 7th Gen Kaby Lake Core i5 - 9600 3.70 GHz |
 | 主板 | Gigabyte GA-B250M-EVO |
-| 显卡 | Intel HD Graphics 630 |
-| 内存 | DDR4 2400 MHz 8G x2 |
+| 显卡 | Intel CoffeeLake-S GT2 [UHD Graphics 630] |
+| 内存 | DDR4 2666 MHz 8G x2 |
 | 硬盘 | SATA SSD 240G |
 | 声卡 | Realtek HD Audio ALC 887 |
 | 有线网卡 | Realtek RTL8111 |
@@ -15,7 +15,7 @@
 | BIOS | AMI UEFI BIOS (Version F5d) |
 
 ## macOS & OpenCore 版本
-- macOS Big Sur 11.6.2 / Monterey 12.1
+- macOS Big Sur 11.6.2 / Monterey 12.2
 - OpenCore 0.7.7
 
 ## BIOS 设置
