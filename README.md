@@ -3,7 +3,7 @@
 ## 系统参数
 | Name | Description |
 | - | - |
-| CPU | Intel 7th Gen Kaby Lake Core i5 - 9600 3.70 GHz |
+| CPU | Intel 7th Gen Kaby Lake Core i5 - 9600K 3.70 GHz |
 | 主板 | Gigabyte GA-B250M-EVO |
 | 显卡 | Intel CoffeeLake-S GT2 [UHD Graphics 630] |
 | 内存 | DDR4 2666 MHz 8G x2 |
