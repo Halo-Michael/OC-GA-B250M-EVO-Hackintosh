@@ -684,6 +684,8 @@
 			<integer>0</integer>
 			<key>DisplayLevel</key>
 			<integer>0</integer>
+			<key>LogModules</key>
+			<string>*</string>
 			<key>SerialInit</key>
 			<false/>
 			<key>SysReport</key>
@@ -781,7 +783,7 @@
 			<key>7C436110-AB2A-4BBB-A880-FE41995C9F82</key>
 			<dict>
 				<key>boot-args</key>
-				<string>-wegnoegpu igfxonln=1 amfi_get_out_of_my_way=1</string>
+				<string>-wegnoegpu igfxonln=1 amfi_allow_any_signature=1</string>
 				<key>csr-active-config</key>
 				<data>AAAAAA==</data>
 				<key>prev-lang:kbd</key>
