@@ -13,6 +13,7 @@ ME版本已降级至此主板配合Coffee Lake cpu最新可用版本11.7.0.1261�
 不能配合笔记本/至强转针U使用
 
 bios2.bin:  
+在bios.bin文件更新的基础上：  
 更新微码版本至：U0步进：906EA（F0）、B0步进：906EB（EC）、P0步进：906EC（F0）、R0步进：906ED（F0）  
 SYSTEM FAN风扇接口更新温度来源为VRMOS管温度传感器  
 注：未更新bios修改日期
