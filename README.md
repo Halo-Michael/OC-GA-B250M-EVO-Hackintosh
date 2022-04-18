@@ -9,10 +9,10 @@
 | 内存 | DDR4 2666 MHz 8G x2 |
 | 硬盘 | SATA SSD 240G |
 | 声卡 | Realtek HD Audio ALC 887 |
-| 有线网卡 | Realtek RTL8111 |
+| 有线网卡 | Realtek RTL8168G |
 | 无线网卡 | BCM94360 (14E4:43A0)  |
 | 蓝牙 | BCM94360 (0A5C:22BE) |
-| BIOS | AMI UEFI BIOS (Version F5d) |
+| BIOS | AMI UEFI BIOS (Version F5d modified) |
 
 ## macOS & OpenCore 版本
 - macOS Big Sur 11.6.5 / Monterey 12.3.1
@@ -36,13 +36,13 @@
 
 ## 工作的部件
 - 自动变频 & 睿频（可通过Intel Power Gadget确认）
-- 核显Intel HD Graphics 630 通过DVI口正常输出(可转接HDMI)
+- 核显Intel UHD Graphics 630 通过DVI口正常输出(可转接HDMI)
 - 独立显卡已禁用，无需拔下
 - 风扇控制、温度传感器 (可通过iStat确认)
 - Nvme控制器、四SATA口工作正常
 - 声卡Realtek ALC 887
 - 苹果启动音效
-- 内置千兆有线网卡Realtek RTL8111 & 外置USB3.0千兆有线网卡ASIX AX88179
+- 内置千兆有线网卡Realtek RTL8168G
 - 无线网卡BCM94360 2.4GHz、5GHz、蓝牙模块
 - 机箱后部4x USB3.0口 & 2x USB2.0口 & 内部USB3.0总线接前置1x USB3.0口 + 2x USB2.0口已定制好USBPort.kext
 - 夜览模式
