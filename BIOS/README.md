@@ -17,3 +17,8 @@ bios2.bin:
 更新微码版本至：U0步进：906EA（F0）、B0步进：906EB（EC）、P0步进：906EC（F0）、R0步进：906ED（F0）  
 SYSTEM FAN风扇接口更新温度来源为VRMOS管温度传感器  
 注：未更新bios修改日期
+
+bios3.bin:  
+在bios2.bin文件更新的基础上：  
+更新微码版本至：U0步进：906EA（F0）、B0步进：906EB（F0）、P0步进：906EC（F0）、R0步进：906ED（F0）  
+注：未更新bios修改日期
