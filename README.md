@@ -36,7 +36,8 @@
 
 ## 工作的部件
 - 自动变频 & 睿频（可通过Intel Power Gadget确认）
-- 核显Intel UHD Graphics 630 通过DVI口正常输出(可转接HDMI)
+- 核显Intel UHD Graphics 630 通过DVI口正常输出（可转接HDMI）
+- 核显H264 HEVC硬件解码正常工作（可通过VideoProc确认）
 - 独立显卡已禁用，无需拔下
 - 风扇控制、温度传感器 (可通过iStat确认)
 - Nvme控制器、四SATA口工作正常
