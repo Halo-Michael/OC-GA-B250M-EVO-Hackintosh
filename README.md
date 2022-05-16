@@ -5,18 +5,18 @@
 | - | - |
 | CPU | Intel 9th Gen Coffee Lake Core i5 - 9600K 3.70 GHz |
 | 主板 | Gigabyte GA-B250M-EVO |
-| 显卡 | Intel CoffeeLake-S GT2 [UHD Graphics 630] |
+| 显卡 | Intel UHD Graphics 630 |
 | 内存 | DDR4 2666 MHz 8G x2 |
 | 硬盘 | SATA SSD 240G |
 | 声卡 | Realtek HD Audio ALC 887 |
 | 有线网卡 | Realtek RTL8168G |
-| 无线网卡 | BCM94360 (14E4:43A0)  |
-| 蓝牙 | BCM94360 (0A5C:22BE) |
+| 无线网卡 | BCM4360 (14E4:43A0)  |
+| 蓝牙 | BCM4360 (0A5C:22BE) |
 | BIOS | AMI UEFI BIOS (Version F5d modified) |
 
 ## macOS & OpenCore 版本
 - macOS Big Sur 11.6.5 / Monterey 12.3.1
-- OpenCore 0.7.9
+- OpenCore 0.8.0
 
 ## BIOS 设置
 - Hyper-Threading Technology : 启用
@@ -43,7 +43,8 @@
 - 声卡Realtek ALC 887
 - 苹果启动音效
 - 内置千兆有线网卡Realtek RTL8168G
-- 无线网卡BCM94360 2.4GHz、5GHz、蓝牙模块
+- 无线网卡BCM94360 2.4GHz、5GHz
+- 蓝牙模块（仅在Monterey以下工作）
 - 机箱后部4x USB3.0口 & 2x USB2.0口 & 内部USB3.0总线接前置1x USB3.0口 + 2x USB2.0口已定制好USBPort.kext
 - 夜览模式
 - 睡眠 & 唤醒
