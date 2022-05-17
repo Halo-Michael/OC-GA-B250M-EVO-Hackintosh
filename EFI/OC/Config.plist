@@ -82,6 +82,8 @@
 		<dict>
 			<key>PciRoot(0x0)/Pci(0x1F,0x3)</key>
 			<dict>
+				<key>No-hda-gfx</key>
+				<data>AAAAAA==</data>
 				<key>layout-id</key>
 				<data>EQAAAA==</data>
 			</dict>
@@ -89,6 +91,8 @@
 			<dict>
 				<key>AAPL,ig-platform-id</key>
 				<data>BwCbPg==</data>
+				<key>disable-external-gpu</key>
+				<data>AQAAAA==</data>
 				<key>enable-lspcon-support</key>
 				<data>AQAAAA==</data>
 				<key>framebuffer-con1-enable</key>
@@ -501,8 +505,6 @@
 		</dict>
 		<key>Entries</key>
 		<array>
-			<dict>
-			</dict>
 		</array>
 		<key>Security</key>
 		<dict>
@@ -580,7 +582,7 @@
 			<key>7C436110-AB2A-4BBB-A880-FE41995C9F82</key>
 			<dict>
 				<key>boot-args</key>
-				<string>-wegnoegpu igfxonln=1 amfi_allow_any_signature=1</string>
+				<string>igfxonln=1 amfi_allow_any_signature=1</string>
 				<key>csr-active-config</key>
 				<data>AAAAAA==</data>
 				<key>prev-lang:kbd</key>
