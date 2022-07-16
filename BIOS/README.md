@@ -25,5 +25,5 @@ bios3.bin:
 
 bios-safe.bin:  
 在bios3.bin文件更新的基础上：  
-回锁温度墙，但将降频温度由pcb温度95度更改为pcb温度103度  
+回锁温度墙的安全版本  
 注：未更新bios修改日期
