@@ -15,8 +15,8 @@
 | BIOS | AMI UEFI BIOS (Version F5d modified) |
 
 ## macOS & OpenCore 版本
-- macOS Big Sur 11.6.5 / Monterey 12.4
-- OpenCore 0.8.0
+- macOS Big Sur 11.6.8 / Monterey 12.5
+- OpenCore 0.8.3
 
 ## BIOS 设置
 - Hyper-Threading Technology : 启用
