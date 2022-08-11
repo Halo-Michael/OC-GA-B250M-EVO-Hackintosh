@@ -19,14 +19,9 @@
 - OpenCore 0.8.3
 
 ## BIOS 设置
-- Hyper-Threading Technology : 启用
-- Intel Speed Shift Technology : 启用
 - Fast Boot : 禁用
 - Windows 8/10 Features : Other OS
 - Secure Boot : 禁用
-- Serial Port : 禁用
-- XHCI Hand-Off : 启用
-- Port 60/64 Emulation : 启用
 - SATA Mode : AHCI
 - VT-d : 禁用
   - 如果OC中将 DisableIoMapper 设置为true，那么VT-d可以启用
