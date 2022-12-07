@@ -2,8 +2,8 @@
 如果你刷入了了4:3下BIOS文件启动时Logo偏长，请改用16:9下同名BIOS文件；如果你刷入了了16:9下BIOS文件启动时Logo偏扁，请改用4:3下同名BIOS文件。
 
 bios.bin:  
-此BIOS仅限GIGABYTE B250M-EVO主板配合Coffee Lake（8/9代）cpu使用，包含以下微码：U0步进：906EA（F0）、B0步进：906EB（F0）、P0步进：906EC（F0）、R0步进：906ED（F4） 
-使用6/7代CPU禁止使用这些BIOS，刷入会导致不开机 
+此BIOS仅限GIGABYTE B250M-EVO主板配合Coffee Lake（8/9代）cpu使用，包含以下微码：U0步进：906EA（F0）、B0步进：906EB（F0）、P0步进：906EC（F0）、R0步进：906ED（F4）  
+使用6/7代CPU禁止使用这些BIOS，刷入会导致不开机  
 使用非B0步进Coffee Lake CPU需要配合针脚屏蔽贴  
 ME版本已降级至此主板配合Coffee Lake cpu最新可用版本11.7.0.1261，TPM2.0功能正常，支持Windows BitLocker自动解锁  
 已做pcie总线修复、SKU修复、acpi表修复、8+线程cpu初始化修复、12/16线程cpu支持，me启动校验移除  
