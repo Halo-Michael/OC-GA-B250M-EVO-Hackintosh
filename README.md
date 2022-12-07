@@ -15,12 +15,12 @@
 | BIOS | AMI UEFI BIOS (Version F5d modified) |
 
 ## macOS & OpenCore 版本
-- macOS Big Sur 11.6.5 / Monterey 12.4
-- OpenCore 0.8.0
+- macOS Big Sur 11.7.1 / Monterey 12.6.2 / Ventura 13.0.1
+- OpenCore 0.8.7
 
 ## BIOS 设置
 - Hyper-Threading Technology : 启用
-- Intel Speed Shift Technology : 启用
+- Intel Speed Shift Technology : 禁用
 - Fast Boot : 禁用
 - Windows 8/10 Features : Other OS
 - Secure Boot : 禁用
