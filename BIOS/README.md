@@ -13,13 +13,14 @@ ME版本已降级至此主板配合Coffee Lake cpu最新可用版本11.7.0.1261�
 SYSTEM FAN风扇接口更新温度来源为VRMOS管温度传感器  
 将10+核cpu核心数使用十六进制显示改为使用十进制显示  
 默认解锁CFG LOCK，强制显示CSM Support开关选项  
-解锁温度墙，请注意VRMOS管温度  
+解锁CPU温度墙开关选项（在CPU超频进阶设置内，默认为开启），关闭VRMOS温度墙，请注意VRMOS管温度  
 移除Q-FLASH对BIOS文件的校验  
 Q-FLASH增加NTFS分区支持  
 启动Logo更改为苹果Logo  
 修复部分中文翻译错误问题  
+修复部分BIOS错误  
 不能配合笔记本/至强转针U使用
 
 bios-safe.bin:  
 在bios.bin文件更新的基础上：  
-回锁温度墙的安全版本
+回锁VRMOS温度墙的安全版本
