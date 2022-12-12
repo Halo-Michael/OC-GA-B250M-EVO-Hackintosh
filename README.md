@@ -22,6 +22,7 @@
 - Fast Boot : 禁用
 - Windows 8/10 Features : Other OS
 - Secure Boot : 禁用
+- XHCI Hand-Off : 启用
 - SATA Mode : AHCI
 - VT-d : 禁用
   - 如果OC中将 DisableIoMapper 设置为true，那么VT-d可以启用
